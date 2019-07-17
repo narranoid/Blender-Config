@@ -1,17 +1,21 @@
 # Blender Startup File
 
+[**Download Startup File**](../../raw/master/startup.blend)
+
+Open the file in Blender and use *File > Defaults > Save Startup File* to set it as your own startup file.
+
 This startup file is structured into ten workspaces:
 
-- Layout
-- Sculpting
-- UV Editing
-- Texture Paint
-- Shading
-- Texture Bake
-- Weight Paint
-- Animation
-- Compositing
-- Scripting
+- [Layout](#layout)
+- [Sculpting](#sculpting)
+- [UV Editing](#uv-editing)
+- [Texture Paint](#texture-paint)
+- [Shading](#shading)
+- [Texture Bake](#texture-bake)
+- [Weight Paint](#weight-paint)
+- [Animation](#animation)
+- [Compositing](#compositing)
+- [Scripting](#scripting)
 
 Some workspaces are added by me, others are either modified or stock versions of the default workspaces from Blender.
 Below you can find screenshots and descriptions to all of those workspaces.
@@ -53,7 +57,7 @@ This workspace is almost equal to the default Shading workspace.
 
 ![Texture Bake workspace screenshot](screenshots/thumbnails/Texture_Bake.jpg)
 
-This one is very similar to the Shading workspace, but with a bit more space for the node editor. I use it for baking textures with Cycles and the Principled Baker add-on.
+This one is very similar to the Shading workspace, but with a bit more space for the node editor. I use it for baking textures with Cycles and the [Principled Baker](https://github.com/danielenger/Principled-Baker) add-on.
 
 ## Weight Paint
 
