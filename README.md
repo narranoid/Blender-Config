@@ -24,61 +24,61 @@ I will update this file whenever a significant amount of change happened in its 
 
 ## Layout
 
-![Layout workspace screenshot](screenshots/thumbnails/Layout.jpg)
+[![Layout workspace screenshot](screenshots/thumbnails/Layout.jpg)](../../raw/master/screenshots/Layout.png)
 
 This is a slightly modified version of Blender's default Layout workspace. I use it for everything I don't have a specific workspace for, including modelling.
 
 ## Sculpting
 
-![Sculpting workspace screenshot](screenshots/thumbnails/Sculpting.jpg)
+[![Sculpting workspace screenshot](screenshots/thumbnails/Sculpting.jpg)](../../raw/master/screenshots/Sculpting.png)
 
 This is the default Sculpting workspace.
 
 ## UV Editing
 
-![UV Editing workspace screenshot](screenshots/thumbnails/UV_Editing.jpg)
+[![UV Editing workspace screenshot](screenshots/thumbnails/UV_Editing.jpg)](../../raw/master/screenshots/UV_Editing.png)
 
 This is the default UV Editing workspace.
 
 ## Texture Paint
 
-![Texture Paint workspace screenshot](screenshots/thumbnails/Texture_Paint.jpg)
+[![Texture Paint workspace screenshot](screenshots/thumbnails/Texture_Paint.jpg)](../../raw/master/screenshots/Texture_Paint.png)
 
 This is a modified version of the Texture Paint workspace.
-I got rid of the UV editor and added a node editor as I never used the UV editor for painting and I wanted an easy way to select images via node editor.
+I got rid of the UV editor and added a node editor as I never used the UV editor for painting and I wanted an easy way to select images via node editor. Symmetry is set to X by default as well.
 
 ## Shading
 
-![Shading workspace screenshot](screenshots/thumbnails/Shading.jpg)
+[![Shading workspace screenshot](screenshots/thumbnails/Shading.jpg)](../../raw/master/screenshots/Shading.png)
 
 This workspace is almost equal to the default Shading workspace.
 
 ## Texture Bake
 
-![Texture Bake workspace screenshot](screenshots/thumbnails/Texture_Bake.jpg)
+[![Texture Bake workspace screenshot](screenshots/thumbnails/Texture_Bake.jpg)](../../raw/master/screenshots/Texture_Bake.png)
 
 This one is very similar to the Shading workspace, but with a bit more space for the node editor. I use it for baking textures with Cycles and the [Principled Baker](https://github.com/danielenger/Principled-Baker) add-on.
 
 ## Weight Paint
 
-![Weight Paint workspace screenshot](screenshots/thumbnails/Weight_Paint.jpg)
+[![Weight Paint workspace screenshot](screenshots/thumbnails/Weight_Paint.jpg)](../../raw/master/screenshots/Weight_Paint.png)
 
 This workspace is optimized for weight painting. On the left are the brush settings and on the right is an expanded list of all vertex groups to easily select the different bone weights. Symmetry settings are opened by default to check right away if they are enabled.
 
 ## Animation
 
-![Animation workspace screenshot](screenshots/thumbnails/Animation.jpg)
+[![Animation workspace screenshot](screenshots/thumbnails/Animation.jpg)](../../raw/master/screenshots/Animation.png)
 
 This workspace is very similar to the default Animation workspace.
 
 ## Compositing
 
-![Compositing workspace screenshot](screenshots/thumbnails/Compositing.jpg)
+[![Compositing workspace screenshot](screenshots/thumbnails/Compositing.jpg)](../../raw/master/screenshots/Compositing.png)
 
 The Compositing workspace is a customized version of its default. I rearranged the editors and added an image viewer showing Render Result by default to see the Composite output there without any nodes covering it. I wanted to create a good mix of Blender's and Nuke's compositing workspace.
 
 ## Scripting
 
-![Scripting workspace screenshot](screenshots/thumbnails/Scripting.jpg)
+[![Scripting workspace screenshot](screenshots/thumbnails/Scripting.jpg)](../../raw/master/screenshots/Scripting.png)
 
 This is the default Scripting workspace.
