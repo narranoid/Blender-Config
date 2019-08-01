@@ -13,8 +13,8 @@ My keymap slightly differs from the default:
 - I use *Gizmos* as tilde action.
 - I changed *Window* > *Search Menu* from F3 to Alt+Spacebar.
 - I added *Node Generic* > *Search and Add Node*  for Tab.
-- *Delete Collection* is BackSpace instead of Delete.
-- *Delete Collection* with *Hierarchy* checked is Shift+BackSpace.
+- *Delete Collection* in outliner is BackSpace instead of Delete.
+- *Delete Collection* with *Hierarchy* checked in outliner is Shift+BackSpace.
 - Deleting objects in the outliner works with Delete.
 - Deleting outliner ID data works with Shift+Delete.
 
