@@ -2,8 +2,8 @@
 
 ## User Preferences
 
-My user preferences are almost equal to the defaults. I unchecked *Load UI* in *Save & Load* to prevent Blender from loading workspaces from other files.
-Also, I am using *C:\Windows\Fonts* as *Fonts* directory and my keymapping is the one described in [Keymap](#keymap) of course.
+My user preferences are almost equal to the defaults. I unchecked *Load UI* in *Save & Load* to prevent Blender from loading workspaces from other files. Then, I added a node curving of 7.
+Lastly, I am using *C:\Windows\Fonts* as *Fonts* directory and my keymapping is the one described in [Keymap](#keymap) of course.
 
 I will not go into my add-on configuration. I just hope it doesn't mess with yours if you decide to use my preferences.
 
@@ -13,6 +13,10 @@ My keymap slightly differs from the default:
 - I use *Gizmos* as tilde action.
 - I changed *Window* > *Search Menu* from F3 to Alt+Spacebar.
 - I added *Node Generic* > *Search and Add Node*  for Tab.
+- *Delete Collection* is BackSpace instead of Delete.
+- *Delete Collection* with *Hierarchy* checked is Shift+BackSpace.
+- Deleting objects in the outliner works with Delete.
+- Deleting outliner ID data works with Shift+Delete.
 
 ## Startup File
 
