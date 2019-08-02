@@ -3,7 +3,7 @@
 ## User Preferences
 
 My user preferences are almost equal to the defaults. I unchecked *Load UI* in *Save & Load* to prevent Blender from loading workspaces from other files. Then, I added a node curving of 7.
-Lastly, I am using *C:\Windows\Fonts\* as *Fonts* directory and my keymapping is the one described in [Keymap](#keymap) of course.
+Lastly, I am using *C:\\Windows\\Fonts\\* as *Fonts* directory and my keymapping is the one described in [Keymap](#keymap) of course.
 
 I will not go into my add-on configuration. I just hope it doesn't mess with yours if you decide to use my preferences.
 
